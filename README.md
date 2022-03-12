@@ -3,7 +3,7 @@ This is my profile, where I nerd away and do code, mostly for CHOMPStation + VOR
 
 Discord is available on request, and I try to be quick 'bout responding. <:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rykka-stormheart&show_icons=true&theme=midnight-purple&text_color=9f4bff)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rykka-stormheart&include_all_commits=TRUE&show_icons=true&theme=midnight-purple&text_color=9f4bff)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Rykka-Stormheart/Rykka-Stormheart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
